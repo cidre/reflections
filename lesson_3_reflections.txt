@@ -14,7 +14,7 @@ Describe the differences between forks, clones, and branches.  When would you us
 
 What is the benefit of having a copy of the last known state of the remote stored locally?
 
-    Fill in your answer here
+    It will help to resolve merging conflicts.
 
 How would you collaborate without using Git or GitHub?  What would be easier, and what would be harder?
 
@@ -23,4 +23,4 @@ How would you collaborate without using Git or GitHub?  What would be easier, an
 
 When would you want to make changes in a separate branch rather than directly in master? What benefits does each approach have?
 
-    Fill in your answer here
+    I would want to make changes in a separate branch rather than directly in master when I  work as     contributor with repo which has another owner and when I will need to get opinion from my teammate     before merging new features with master branch.
